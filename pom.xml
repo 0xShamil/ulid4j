@@ -9,6 +9,8 @@
     <version>1.0</version>
     <packaging>jar</packaging>
     <name>ulid4j</name>
+    <description>A Java library to generate stupidly fast ULIDs</description>
+    <url>https://github.com/0xShamil/ulid4j</url>
 
     <licenses>
         <license>
