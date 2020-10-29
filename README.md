@@ -50,6 +50,26 @@ ulid4j                avgt    5     71.991 ±  0.423  ns/op
 --------------------------------------------------------------------
 ```
 
+## Installation
+
+### Gradle
+
+```gradle
+    dependencies {
+        implementation 'dev.shamil:ulid4j:1.0'
+    }
+```
+
+### Maven
+
+```xml
+    <dependency>
+      <groupId>dev.shamil</groupId>
+      <artifactId>ulid4j</artifactId>
+      <version>1.0</version>
+    </dependency>
+```
+
 ## Usage
 
 Before generating ULID string, a `ulid4j.Ulid()` instance needs to be created.
